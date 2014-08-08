@@ -23,8 +23,8 @@
 import os;
 import sys;
 if sys.version_info[0] < 3:
-    sys.stderr.write(os.path.basename(__file__) + ' requires Python 3 or higher.');
-    sys.stderr.write('python3 ' + os.path.basename(__file__));
+    sys.stderr.write(os.path.basename(__file__) + ' requires Python 3 or higher.\n');
+    sys.stderr.write('python3 ' + os.path.basename(__file__) + '\n');
     exit(1);
 import argparse;
 import pprint;
