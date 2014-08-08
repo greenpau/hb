@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 #   File:      hb.py
+#   Author:    Paul Greenberg (http://www.greenberg.pro)
 #   Created:   04/10/2014
 #   Purpose:   OpenSSL Heartbleed bug tester
 #   Version:   1.0
